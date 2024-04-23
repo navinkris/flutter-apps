@@ -1,0 +1,20 @@
+{
+  "breakfast": "إفطار",
+  "category": "فئة",
+  "recommendationForDiet": "توصية للنظام الغذائي",
+  "salad": "سلطة",
+  "cake": "كيك",
+  "pie": "فطيرة",
+  "smoothies": "العصائر",
+  "honeyPancake": "فطيرة العسل",
+  "bread": "خبز",
+  "popular": "شائع",
+  "cheeseBurger": "برجر جبن",
+  "salmonNigiri": "سمك السلمون نيجيري",
+  "minutes": "{Minutes} دقيقة",
+  "kiloCalories": "{kiloCals} كيلو سعرات حرارية",
+  "levelEasy": "سهل",
+  "levelMedium": "واسطة",
+  "view": "منظر",
+  "searchTooltip": "بحث فطيرة"
+}

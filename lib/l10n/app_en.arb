@@ -1,0 +1,74 @@
+{
+  "breakfast": "Breakfast",
+  "@breakfast": {
+    "description": "Break the fast"
+  },
+  "category": "Category",
+  "@category": {
+    "description": "Category of food"
+  },
+  "recommendationForDiet": "Recommendation for Diet",
+  "@recommendationForDiet": {
+    "description": "Recommendation of food for Diet"
+  },
+  "salad": "Salad",
+  "@salad": {
+    "description": "salad"
+  },
+  "cake": "Cake",
+  "@cake": {
+    "description": "Cake"
+  },
+  "pie": "Pie",
+  "@pie": {
+    "description": "Pie"
+  },
+  "smoothies": "Smoothies",
+  "@smoothies": {
+    "description": "Smoothies"
+  },
+  "honeyPancake": "Honey Pancake",
+  "@honeyPancake": {
+    "description": "Honey Pancake"
+  },
+  "bread": "Bread",
+  "@bread": {
+    "description": "Whole wheat bread"
+  },
+  "popular": "Popular",
+  "@popular": {
+    "description": "popular food"
+  },
+  "cheeseBurger": "Cheese Burger",
+  "@cheeseBurger": {
+    "description": "cheese burger"
+  },
+  "salmonNigiri": "Salmon Nigiri",
+  "@salmonNigiri": {
+    "description": "Salmon Nigiri"
+  },
+  "minutes": "{Minutes} mins",
+  "@minutes": {
+    "description": "Minutes to prepare Food"
+  },
+  "kiloCalories": "{kiloCals} kCals",
+  "@kiloCalories": {
+    "description": "Kilo calories present in food"
+  },
+  "levelEasy": "Easy",
+  "@levelEasy": {
+    "description": "Easy Level"
+  },
+  "levelMedium": "Medium",
+  "@levelMedium": {
+    "description": "Medium Level"
+  },
+  "view": "View",
+  "@view": {
+    "description": "View"
+  },
+  "searchTooltip": "Search Pancake",
+  "@searchTooltip": {
+    "description": "Tooltip for search"
+  }
+}

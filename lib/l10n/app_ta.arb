@@ -1,0 +1,20 @@
+{
+  "breakfast": "காலை உணவு",
+  "category": "வகை",
+  "recommendationForDiet": "உணவுக்கான பரிந்துரை",
+  "salad": "சாலட்",
+  "cake": "கேக்",
+  "pie": "பை",
+  "smoothies": "மிருதுவாக்கிகள்",
+  "honeyPancake": "தேன் பான்கேக்",
+  "bread": "ரொட்டி",
+  "popular": "பிரபலமான",
+  "cheeseBurger": "சீஸ் பர்கர்",
+  "salmonNigiri": "சால்மன் நிகிரி",
+  "minutes": "{Minutes} நிமிடங்கள்",
+  "kiloCalories": "{kiloCals} கிலோ கலோரிகள்",
+  "levelEasy": "சுலபம்",
+  "levelMedium": "நடுத்தர",
+  "view": "பார்வை",
+  "searchTooltip": "பான்கேக்கைத் தேடுங்கள்"
+}

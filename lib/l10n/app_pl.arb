@@ -1,0 +1,20 @@
+{
+  "breakfast": "śniadanie",
+  "category": "Kategoria",
+  "recommendationForDiet": "Zalecenia dotyczące diety",
+  "salad": "Sałatka",
+  "cake": "ciasto",
+  "pie": "ciasto",
+  "smoothies": "koktajle",
+  "honeyPancake": "Naleśnik Miodowy",
+  "bread": "chleb",
+  "popular": "popularny",
+  "cheeseBurger": "Burgery Serowe",
+  "salmonNigiri": "Łososiowe Nigiri",
+  "minutes": "{Minutes} min",
+  "kiloCalories": "{kiloCals} kCal",
+  "levelEasy": "łatwy",
+  "levelMedium": "średni",
+  "view": "pogląd",
+  "searchTooltip": "Wyszukaj naleśnik"
+}

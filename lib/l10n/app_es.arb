@@ -1,0 +1,20 @@
+{
+  "breakfast": "Desayuno",
+  "category": "Categoría",
+  "recommendationForDiet": "Recomendación de dieta",
+  "salad": "Ensalada",
+  "cake": "pastel",
+  "pie": "tarta",
+  "smoothies": "batidos",
+  "honeyPancake": "Panqueque De Miel",
+  "bread": "pan",
+  "popular": "popular",
+  "cheeseBurger": "hamburguesa con queso",
+  "salmonNigiri": "Nigiris de salmón",
+  "minutes": "{Minutes} minutos",
+  "kiloCalories": "{kiloCals} kCal",
+  "levelEasy": "fácil",
+  "levelMedium": "medio",
+  "view": "vista",
+  "searchTooltip": "Buscar panqueque"
+}
