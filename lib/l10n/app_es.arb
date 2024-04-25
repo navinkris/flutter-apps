@@ -16,5 +16,6 @@
   "levelEasy": "fácil",
   "levelMedium": "medio",
   "view": "vista",
-  "searchTooltip": "Buscar panqueque"
+  "searchTooltip": "Buscar panqueque",
+  "popularFood": "Comida popular"
 }

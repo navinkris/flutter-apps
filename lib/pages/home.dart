@@ -1,6 +1,7 @@
 import 'package:fitness/models/category_model.dart';
 import 'package:fitness/models/diet_model.dart';
 import 'package:fitness/models/popular_model.dart';
+import 'package:fitness/pages/charts/pie_chart.dart';
 import 'package:fitness/theme/theme_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -34,9 +35,47 @@ class HomePage extends StatelessWidget {
            const SizedBox(height: 40),
            _dietsSection(context),
            const SizedBox(height: 40),
-           _popularDietsSection(context)
+           _popularDietsSection(context),
+           const SizedBox(height: 40,),
+           _pieChartsSection(context)
         ],
       )
+    );
+  }
+
+  Column _pieChartsSection(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Padding(
+          padding: const EdgeInsets.only(left: 20),
+          child: Text(
+            AppLocalizations.of(context)!.popularFood,
+            style: TextStyle(
+              color: Theme.of(context).colorScheme.primary,
+              fontSize: 18,
+              fontWeight: FontWeight.w600
+            ),
+          ),
+        ),
+        const SizedBox(height: 10),
+        ListView.separated(
+          itemCount: 1,
+          shrinkWrap: true,
+          separatorBuilder: (context, index) => const SizedBox(height: 25),
+          padding: const EdgeInsets.only(
+              left: 20,
+              right: 20,
+              bottom: 20
+          ),
+          itemBuilder: (context, index) {
+              return const SizedBox(
+                height: 300,
+              child: MyPieChart()
+            );
+          }
+        )
+      ]
     );
   }
 
@@ -55,7 +94,7 @@ class HomePage extends StatelessWidget {
             ),
           ),
         ),
-        const SizedBox(height: 15,),
+        const SizedBox(height: 15),
         ListView.separated(
             itemCount: popularDiets.length,
             shrinkWrap: true,

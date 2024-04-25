@@ -70,5 +70,9 @@
   "searchTooltip": "Search Pancake",
   "@searchTooltip": {
     "description": "Tooltip for search"
+  },
+  "popularFood": "Popular Food",
+  "@popularFood": {
+    "description": "Popular Food"
   }
 }
